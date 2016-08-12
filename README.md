@@ -1,5 +1,11 @@
 Symfony Microkernel Skeleton
 ============================
+Symfony Microkernel Skeleton with tools that can be useful when developing microservices.
+Provisioning include:
+- apache2
+- php7
+- MySQL 5.7
+- composer
 
 ###Getting started
 
